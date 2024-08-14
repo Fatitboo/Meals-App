@@ -1,10 +1,10 @@
-# Meals-App
+## Meals-App
 
-### Mô tả
-Ứng dụng thông tin các món ăn:
-* Hiện danh mục các loại món ăn
-* Hiện các món ăn theo từng loại
-* Hiện chi tiết công thức nấu ăn theo từng món
-### Công nghệ:
+### Description
+Meals information application:
+* Shows the list of dishes
+* Shows dishes by type
+* Shows detailed recipes by dish
+### Technology:
 * Frontend: React-Native
 * Database: SQLite
